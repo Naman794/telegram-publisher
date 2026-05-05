@@ -1,0 +1,6 @@
+{
+  "name": "TelePost Dashboard",
+  "description": "A clean web interface to publish content directly to your Telegram channels using the Telegram Bot API, featuring posting history and status tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
